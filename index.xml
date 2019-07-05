@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <productId>780082</productId>
+    <productTitle>Cool Apartment</productTitle>
+    <description>Upper East Side</description>
+    <productImage>https://public.bhhsnyproperties.com/BNY_PUBLIC/MLSPhotos/PCWLST/780082_7.jpg?mw=1000&amp;mh=1000</productImage>
+    <numBeds>5</numBeds>
+    <numBaths>4.5</numBaths>
+    <propertyType>apartment</propertyType>
+    <listingType>for sale</listingType>
+    <address>815 Park Ave. 7/8C, New York, NY 10021</address>
+    <city>New York</city>
+    <country>United States</country>
+    <price>100</price>
+    <productLink>https://www.bhhsnyproperties.com/cooperative/pcw/780082/815-park-ave.-7-8c-new-york-ny-10021?utm_source=tos&amp;utm_medium=banner&amp;utm_campaign=featuredproperties</productLink>
+    <propertyTaxes>$250.00</propertyTaxes>
+    <maintenanceFees>$485.00</maintenanceFees>
+    <yearBuild>1998</yearBuild>
+    <lotSize>2000 sqft</lotSize>
+  </row>
+  <row>
+    <productId>776025</productId>
+    <productTitle>Nice Condo</productTitle>
+    <description>Midtown</description>
+    <productImage>https://public.bhhsnyproperties.com/BNY_PUBLIC/MLSPhotos/PCWLST/776025_2.jpg?mw=1000&amp;mh=1000</productImage>
+    <numBeds>8</numBeds>
+    <numBaths>2.5</numBaths>
+    <propertyType>condo</propertyType>
+    <listingType>for rent</listingType>
+    <address>641 Fifth Ave. 23A, New York, NY 10022</address>
+    <city>New York</city>
+    <country>United States</country>
+    <price>$4,470,000 </price>
+    <productLink>https://www.bhhsnyproperties.com/condominium/pcw/776025/641-fifth-ave.-23a-new-york-ny-10022?utm_source=tos&amp;utm_medium=banner&amp;utm_campaign=featuredproperties </productLink>
+    <propertyTaxes>$260.00</propertyTaxes>
+    <maintenanceFees>$500.00</maintenanceFees>
+    <yearBuild>1954</yearBuild>
+    <lotSize>3450 sqft</lotSize>
+  </row>
+  <row>
+    <productId>1158122</productId>
+    <productTitle>Sweet House</productTitle>
+    <description>Midtown</description>
+    <productImage>https://public.bhhsnyproperties.com/BNY_PUBLIC/MLSPhotos/PCWLST/1158122_3.jpg?mw=1000&amp;mh=1000</productImage>
+    <numBeds>2</numBeds>
+    <numBaths>2.5</numBaths>
+    <propertyType>house</propertyType>
+    <listingType>for lease</listingType>
+    <address>721 Fifth Ave. 32A, New York, NY 10022</address>
+    <city>New York</city>
+    <country>United States</country>
+    <price>$2,840,000 </price>
+    <productLink>https://www.bhhsnyproperties.com/condominium/pcw/1158122/721-fifth-ave.-32a-new-york-ny-10022?utm_source=tos&amp;utm_medium=banner&amp;utm_campaign=featuredproperties</productLink>
+    <propertyTaxes>$300.00</propertyTaxes>
+    <maintenanceFees>$214.00</maintenanceFees>
+    <yearBuild>2001</yearBuild>
+    <lotSize>105 sqft</lotSize>
+  </row>
+</root>
